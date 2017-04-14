@@ -1,0 +1,2 @@
+# express-webpack-assetpipeline
+整合了webpack和express框架的使用，并额外提供了自动判断环境引用正确的地址，以及缓存爆破功能的express中间件
